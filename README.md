@@ -19,7 +19,13 @@ seaborn                 0.12.0
 
 random_forest = RandomForestClassifier(random_state=55)
 random_forest.fit(X_train, y_train)
-
+.
+.
+img = np.array(img)
+.
+.
+img = img / 255
+.
 ```
 
 
