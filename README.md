@@ -33,8 +33,7 @@ img = img / 255
 더 많은 데이터로 더 많은 반복 학습 필요, 특정 패턴을 확인하는 CNN을 활용하면 정확도가 더 높다는 정보를 확인하였으나, 기존 손글씨로 비교하기 때문에 조금 더 일치한다 판단하는 숫자로 오류 생성되는 것이 아닌가 라는 판단을 내렸습니다.   
 기존 띄워진 손글씨 숫자 이미지와 비슷하게 작성하면, 맞는 답을 도출하는 결과 확인할 수 있었습니다.
 
-*EX()*
+### 가설 도움 이미지 ###
 
-![Alt text](C:\Users\kyuro\OneDrive\문서\eugene\result.png)
-<img src="C:\Users\kyuro\OneDrive\문서\eugene\result.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Result"></img>
+![ex_screenshot](./result.png)
 
