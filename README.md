@@ -36,7 +36,9 @@ img = img / 255
 ### 가설 도움 이미지 ###
 
 **보여준 랜덤 손글씨 이미지**
-![ex_screenshot](./test.png)
+
+<img src="./test.png" width="40%" height="30%" " alt="RubberDuck"></img>
+
 
 
 **결과**
