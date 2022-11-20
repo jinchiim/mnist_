@@ -41,6 +41,6 @@ img = img / 255
 
 
 **결과**    
-![ex_screenshot](./result1.png)
+<img src="./result1.png" width="70%" height="80%" title="test" alt="result"></img>
 
 
