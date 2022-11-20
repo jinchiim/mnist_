@@ -37,10 +37,10 @@ img = img / 255
 ***
 **보여준 랜덤 손글씨 이미지**
 
-<img src="./test.png" width="40%" height="30%" title="test" alt="test"></img>
+<img src="./test1.png" width="40%" height="30%" title="test" alt="test"></img>
 
 
 **결과**    
-![ex_screenshot](./result.png)
+![ex_screenshot](./result1.png)
 
 
