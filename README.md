@@ -35,6 +35,6 @@ img = img / 255
 
 *EX()*
 
-<img src="C:\Users\kyuro\OneDrive\문서\eugene\test.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="test"></img>
+![Alt text](C:\Users\kyuro\OneDrive\문서\eugene\result.png)
 <img src="C:\Users\kyuro\OneDrive\문서\eugene\result.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Result"></img>
 
