@@ -35,5 +35,10 @@ img = img / 255
 
 ### 가설 도움 이미지 ###
 
+**보여준 랜덤 손글씨 이미지**
+![ex_screenshot](./test.png)
+
+
+**결과**
 ![ex_screenshot](./result.png)
 
