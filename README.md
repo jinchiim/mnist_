@@ -37,8 +37,7 @@ img = img / 255
 
 **보여준 랜덤 손글씨 이미지**
 
-<img src="./test.png" width="40%" height="30%" " alt="RubberDuck"></img>
-
+<img src="./test.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 
 **결과**
